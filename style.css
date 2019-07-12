@@ -55,5 +55,14 @@ header{
   margin: 5px;
   width: 99%;
   left: 0;
-
+}
+h1{
+  text-align: center;
+  margin:25px;
+}
+li{
+  font-size:20px;
+}
+p{
+  font-size:20px;
 }
