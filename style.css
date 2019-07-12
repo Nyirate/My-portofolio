@@ -64,10 +64,26 @@ li{
 }
 p{
   font-size: 20px;
+  margin:10px;
 }
 #first{
   height:500px;
 }
 #move{
   height:500px;
+}
+h2{
+  margin:20px
+}
+h3{
+  margin:20px
+}
+h4{
+  margin:20px
+}
+h5{
+  margin:20px
+}
+h6{
+  margin:20px
 }
