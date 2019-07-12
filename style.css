@@ -50,7 +50,6 @@ header{
   text-align:center;
   background-color:beige;
   font-size: 18px;
-  position: fixed;
   bottom:0px;
   margin: 5px;
   width: 99%;
@@ -64,5 +63,11 @@ li{
   font-size:20px;
 }
 p{
-  font-size:20px;
+  font-size: 20px;
+}
+#first{
+  height:500px;
+}
+#move{
+  height:500px;
 }
