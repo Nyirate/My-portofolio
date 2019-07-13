@@ -1,8 +1,7 @@
 body {
-  margin:10px;
-  padding:10px;
+  margin:5px;
+  padding:5px;
   border:5px;
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbKI3aOywSDT9UwktZA6rDfqDKmVex5I-z-Pz08BjAPiaPDun5")
 }
 
 .navi {
@@ -31,27 +30,20 @@ body {
   width: 385px;
   height: 380px;
   object-fit: cover;
-  margin-left: 15%;
+  margin-right: 10%;
   float: left;
 }
-header{
-    text-align: center;
-    font-size:25px;
-    font-style:italic;
-    margin-top:3%;
-    margin-right: 40%;
-}
-#intro{
-  float: right;
-  font-size:40px;
-  margin-top:5%;
+.first{
+  background-image: url("http://getwallpapers.com/wallpaper/full/b/9/6/896508-hd-wallpapers-1080p-mac-1920x1080-samsung.jpg");
+  background-repeat: no-repeat;
+  height:800px;
+  background-size: cover;
 }
 #foot{
   text-align:center;
   background-color:beige;
   font-size: 18px;
-  bottom:0px;
-  margin: 5px;
+  margin-top: 50%;
   width: 99%;
   left: 0;
 }
@@ -64,26 +56,32 @@ li{
 }
 p{
   font-size: 20px;
-  margin:10px;
+  text-align: center;
+  margin-top: 30%;
+  color: bisque;
 }
-#first{
-  height:500px;
-}
-#move{
-  height:500px;
+#more{
+  height:300px;
 }
 h2{
-  margin:20px
+  margin:20px;
 }
 h3{
-  margin:20px
+  margin:20px;
 }
 h4{
-  margin:20px
+  margin:20px;
 }
 h5{
-  margin:20px
+  margin:20px;
 }
 h6{
-  margin:20px
+  margin:20px;
+}
+#image{
+  width:400px;
+  height:200px;
+  float:left;
+  margin-top:7%;
+  margin-left: 2%;
 }
