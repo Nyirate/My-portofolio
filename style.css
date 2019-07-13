@@ -1,5 +1,5 @@
 body {
-  margin:5px;
+  margin:0;
   padding:5px;
   border:5px;
 }
@@ -7,6 +7,7 @@ body {
 .navi {
   overflow: hidden;
   float:right;
+  margin-top: 2%
 }
 
 .navi a {
@@ -30,13 +31,13 @@ body {
   width: 385px;
   height: 380px;
   object-fit: cover;
-  margin-right: 10%;
-  float: left;
+  margin-left: 10%;
+  float:right;
 }
 .first{
   background-image: url("http://getwallpapers.com/wallpaper/full/b/9/6/896508-hd-wallpapers-1080p-mac-1920x1080-samsung.jpg");
   background-repeat: no-repeat;
-  height:800px;
+  height:700px;
   background-size: cover;
 }
 #foot{
@@ -53,15 +54,13 @@ h1{
 }
 li{
   font-size:20px;
+  color: aliceblue;
 }
 p{
   font-size: 20px;
   text-align: center;
   margin-top: 30%;
   color: bisque;
-}
-#more{
-  height:300px;
 }
 h2{
   margin:20px;
@@ -77,6 +76,7 @@ h5{
 }
 h6{
   margin:20px;
+  
 }
 #image{
   width:400px;
@@ -84,4 +84,9 @@ h6{
   float:left;
   margin-top:7%;
   margin-left: 2%;
+}
+#more{
+  background-color:black;
+  height:750px;
+  padding: 20px;
 }
