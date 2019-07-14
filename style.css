@@ -37,7 +37,7 @@ body {
 .first{
   background-image: url("http://getwallpapers.com/wallpaper/full/b/9/6/896508-hd-wallpapers-1080p-mac-1920x1080-samsung.jpg");
   background-repeat: no-repeat;
-  height:700px;
+  height:600px;
   background-size: cover;
 }
 #foot{
@@ -56,7 +56,7 @@ li{
   font-size:20px;
   color: aliceblue;
 }
-p{
+#about{
   font-size: 20px;
   text-align: center;
   margin-top: 30%;
@@ -86,7 +86,22 @@ h6{
   margin-left: 2%;
 }
 #more{
-  background-color:black;
+  background-image: url("https://cdn.dribbble.com/users/158956/screenshots/854660/loading_love_still.gif");
+  background-repeat:no-repeat;
+  background-size: cover;
   height:750px;
   padding: 20px;
+}
+#image{
+  width:550px;
+  height:400px;
+}
+#art{
+  margin-top:10%;
+  font-size: 25px;
+}
+#proje{
+  background-image: url("https://ak2.picdn.net/shutterstock/videos/29439562/thumb/1.jpg");
+  height:700px;
+  padding-bottom: 20px;
 }
