@@ -22,7 +22,7 @@ Visual Code
 
 To have access on this project use the following commands:
 git clone https://github.com/Nyirate/My-portofolio.git
-code .
+
 
 #Known Bugs
 
