@@ -1,27 +1,37 @@
 #Portofolio
-####It is all about Me!
-####Emma NYIRATE
-###Author
+
+#It is all about Me!
+
+#Emma NYIRATE
+
+#Author
 https://github.com/Nyirate/My-portofolio
-##Description
+
+#Description
 You can imagine who i am through this .
-##Setup/Installation Requirements
+
+#Setup/Installation Requirements
 Github
 Terminal
 Visual Code
-##Project setup instructions
+
+#Project setup instructions
 To have access on this project use the following commands:
 git clone https://github.com/Nyirate/My-portofolio.git
 code .
-##Known Bugs
+
+#Known Bugs
 No Bugs
-##Technologies Used
+
+#Technologies Used
 Languages:HTML and CSS 
 Tools:VSC as text editor
       Github as a cloud
-##Support and contact details
+
+#Support and contact details
 Problems,questions,ideas or advice;find me on https://github.com/Nyirate/My-portofolio
-##License
+
+#License
 MIT License
 
 Copyright@Emma2019 
